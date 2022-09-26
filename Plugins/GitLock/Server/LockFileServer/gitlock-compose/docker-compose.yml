@@ -1,0 +1,11 @@
+version: "3"
+
+services:
+  server:
+    image: jjyyyyyyyy/lock_file:latest
+    container_name: lock_file
+    restart: always
+    volumes:
+      - ./data:/code/data
+    ports:
+      - "4321:80"

@@ -1,0 +1,4 @@
+fastapi==0.78.0
+pydantic==1.9.1
+uvicorn[standard]
+databases[sqlite]
