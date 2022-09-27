@@ -40,6 +40,7 @@ git clone https://github.com/JJYYs/JJYYGitLock.git
 docker-compose up
 ```
 服务器启动成功后大概是这样的：
+
 ![](./Docs/Docker.png)
 
 - Python版
