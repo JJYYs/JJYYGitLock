@@ -28,6 +28,9 @@ git clone https://github.com/JJYYs/JJYYGitLock.git
 
 ## 使用说明
 本插件基于 4.27 开发，在Win64下完成测试。
+服务器推荐使用Docker版
+客户端需要提前安装好Git，个人推荐 tortoisegit
+
 ### 服务器
 - Docker版
 拷贝 \Plugins\GitLock\Server\LockFileServer\ 下的 gitlock-compose 文件夹到另外的目录
